@@ -1,0 +1,11 @@
+version: "3.4"
+services:
+  project-name:
+    image: nodetravelimage
+    restart: always
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    container_name: node-travel-container
+    ports:
+      - "3000:3000"
