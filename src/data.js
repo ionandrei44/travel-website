@@ -32,19 +32,19 @@ export const navItems = [
   },
   {
     id: 2,
-    name: "Hotels",
+    name: "Services",
   },
   {
     id: 3,
-    name: "Restaurants",
+    name: "Project",
   },
   {
     id: 4,
-    name: "Tours",
+    name: "Client",
   },
   {
     id: 5,
-    name: "Destionations",
+    name: "Blog",
   },
   {
     id: 6,
