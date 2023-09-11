@@ -57,11 +57,19 @@ const AboutUs = () => {
               my: 4,
             }}
           >
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-            a sapien justo. Nulla facilisis tristique imperdiet. Nullam a
-            placerat odio. Sed in ex augue. Aliquam porta consectetur lorem sit
-            amet ultrices. Class aptent taciti sociosqu ad litora torquent per
-            conubia nostra, per inceptos himenaeos.
+          We’re here to hand-hold you through the beautiful yet overwhelming process of decorating your
+home. We understand it is a huge milestone in life to buy your home and every element in it
+plays a role. Over the past 8 years, we have been a part of this precious journey for thousands of
+homeowners from choosing the right designer, fitting the designs with their space, executing
+the furniture; and all this in the most seamless and cost effective way.
+We combine our understanding of your requirements, aspirations with expertise for homebuyers
+to make their dream home ideas become a reality. Making home interiors easy, HomeLane is
+India’s premier end to end home interiors platform which delivers your chosen home interiors
+within 45 days, or we pay you rent. Our tech-empowered teams have delivered over 25,000
+homes with 100+ product vendors,In just 8 years we have opened our showrooms in 28+ cities and we have a total of 45+
+experience centers pan-India. Voted as the best brand in the interiors category by Economic
+Times (2022), we are just getting started. Visit us on www.homelane.com to book your first free
+online design consultation.
           </Typography>
           <SecondaryButton text="Read more" />
         </Box>

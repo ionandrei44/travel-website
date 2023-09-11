@@ -183,7 +183,7 @@ const Footer = () => {
               },
             }}
           >
-            Subscribe on our destination review newsletters
+            Subscribe on our destination review newsletters 
           </Typography>
           <Box
             sx={{

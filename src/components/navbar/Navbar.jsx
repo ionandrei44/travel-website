@@ -43,10 +43,10 @@ const Navbar = () => {
               href="#"
               key={navItem.id}
               underline="none"
-              color="#fff"
+              color="#000000"
               sx={{
-                fontWeight: "300",
-                fontSize: "14px",
+                fontWeight: "500",
+                fontSize: "20px",
                 opacity: 0.7,
                 "&:hover": {
                   opacity: 1,
@@ -71,7 +71,7 @@ const Navbar = () => {
           }}
         >
           <Box>
-            <Typography
+            {/* <Typography
               sx={{
                 fontWeight: "400",
                 fontSize: "14px",
@@ -81,8 +81,8 @@ const Navbar = () => {
               }}
             >
               Holla,
-            </Typography>
-            <Typography
+            </Typography> */}
+            {/* <Typography
               sx={{
                 fontWeight: "600",
                 fontSize: "14px",
@@ -91,9 +91,9 @@ const Navbar = () => {
               }}
             >
               Ales Nesetril
-            </Typography>
+            </Typography> */}
           </Box>
-          <img src={userAvatar} alt="avatar" style={{ cursor: "pointer" }} />
+          {/* <img src={userAvatar} alt="avatar" style={{ cursor: "pointer" }} /> */}
         </Box>
         <MenuIcon
           sx={{
@@ -205,7 +205,7 @@ const Navbar = () => {
                 transform: "translateX(-50%)",
               }}
             >
-              &#169; 2rism
+              &#169; AngleView
             </Typography>
           </Box>
         </Drawer>

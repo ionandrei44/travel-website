@@ -46,7 +46,7 @@ const HotelsAndRestaurants = () => {
             },
           }}
         >
-          Hotels and Restaurants
+          Our Prvious Project
         </Typography>
         <SecondaryButton text="View all" />
       </Box>
