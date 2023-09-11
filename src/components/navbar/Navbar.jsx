@@ -43,10 +43,10 @@ const Navbar = () => {
               href="#"
               key={navItem.id}
               underline="none"
-              color="#fff"
+              color="#000000"
               sx={{
-                fontWeight: "300",
-                fontSize: "14px",
+                fontWeight: "500",
+                fontSize: "20px",
                 opacity: 0.7,
                 "&:hover": {
                   opacity: 1,

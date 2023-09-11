@@ -183,7 +183,7 @@ const Footer = () => {
               },
             }}
           >
-            Subscribe on our destination review newsletters Md Shams Firoz 01
+            Subscribe on our destination review newsletters 
           </Typography>
           <Box
             sx={{
